@@ -2,7 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/<<[.cus.package.name.pypi]>>.svg)](https://badge.fury.io/py/<<[.cus.package.name.pypi]>>)
 
-It does stuff!
+<<[.cus.package.description]>>
 
 ## Installation
 

@@ -5,7 +5,8 @@
             "python": "module",
             "pretty": "Python Module"
         },
-        "version": "0.0.1"
+        "version": "0.0.1",
+        "description": "It does things!"
     },
     "author": {
         "name": "Jake Ledoux",
