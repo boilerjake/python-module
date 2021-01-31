@@ -22,5 +22,4 @@ done
 rm README.md
 rm rename-module-dir
 mv README_TEMPLATE.md README.md
-mv github .github
 rm customize
