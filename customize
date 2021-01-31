@@ -16,9 +16,11 @@ do
 done
 
 # Rename module directory
-./.rename-module-dir
+./rename-module-dir
+
 # Clean up / implode
 rm README.md
+rm rename-module-dir
 mv README_TEMPLATE.md README.md
 mv github .github
 rm customize
