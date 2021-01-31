@@ -1,0 +1,15 @@
+{
+    "package": {
+        "name": {
+            "pypi": "python-module",
+            "python": "module",
+            "pretty": "Python Module"
+        },
+        "version": "0.0.1"
+    },
+    "author": {
+        "name": "Jake Ledoux",
+        "email": "contactjakeledoux@gmail.com",
+        "github": "jakeledoux"
+    }
+}
