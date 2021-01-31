@@ -5,5 +5,3 @@ sys.path.insert(0, os.path.abspath(
 ))
 
 import <<[.cus.package.name.python]>>
-import <<[.cus.package.name.python]>>.models
-import <<[.cus.package.name.python]>>.utils
