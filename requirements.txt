@@ -1,5 +1,5 @@
 pytest
-pytest-coverage
+pytest-cov
 setuptools
 twine
 wheel
