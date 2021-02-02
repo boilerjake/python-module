@@ -1,6 +1,6 @@
 # <<[.cus.package.name.pretty]>>
 
-[![PyPI version](https://badge.fury.io/py/<<[.cus.package.name.pypi]>>.svg)](https://badge.fury.io/py/<<[.cus.package.name.pypi]>>)
+[![PyPI version](https://img.shields.io/pypi/v/<<[.cus.package.name.pypi]>>)](https://pypi.org/project/<<[.cus.package.name.pypi]>>/)
 
 <<[.cus.package.description]>>
 
