@@ -1,5 +1,4 @@
 if which python3 | grep -q <<[.cus.package.name.pypi]>>; then
-    pip install --upgrade setuptools wheel twine
     python setup.py sdist bdist_wheel
     python -m twine upload dist/* --repository <<[.cus.package.name.pypi]>> --skip-existing
 else
